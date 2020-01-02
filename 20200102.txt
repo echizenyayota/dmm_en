@@ -1,0 +1,44 @@
+3. About IT and Web(WordPress)
+もしWordPressを使ってブログを書くことなどに興味があれば、Tokyo WordPress Meetupというイベントに参加することをおすすめします。「やりたい！」という気持ちがあれば、誰でもITやWeb関連の技術をだいたい使うことができます。
+
+If you are interested in blogging on WordPress, I recommend you join Tokyo WordPress Meetup. Anyone with enthusiasm can use IT(Information Technology), web design, web engineering, and programming mostly.
+
+---
+
+【補足説明】
+ITとWebの技術を学ぶためには3つのスキルが必要です。ただし数学や工学の知識は必ずしも必要ではありません。
+
+1. やる気を持つこと
+2. たくさんの友だちを作ること
+3. OSSのコミュニティに参加すること
+
+「文系人間」か「理系人間」かということは関係ありません。
+
+【Supplemental explanation】
+There are three things you need to learn IT and Web skills. However,they are not need to have the knowledges of mathmatics and engineering.
+
+1. Have an enthusiasm
+2. Make many friends
+3. Join the community of OSS
+
+It does not matter if you are “Bunkei” or “Rikei”.
+
+---
+
+もしあなたがケニヤにいるときにWordPressでケニヤに関するブログ記事を書けば、「ケニヤンブロガー」として著名な日本人になれると思います（有名になれば広告による収入も稼げるかもしれません）。
+
+If you wrote the article about Republic of Kenya on WordPress when in it, I think you are famous Japanese blogger about it(Also you may earn money on the ads).
+
+---
+
+もしお手すきの時間があれば、特に羽田か二子玉川のMeetupに参加してみることをお勧めします。
+
+If you have any times, I recommend upcominng “Haneda” or “Futako-Tamagawa” especially in Tokyo WordPress Meetup.
+
+---
+
+ちなみに自分は2019年1月に行われた、（大阪府枚方市の）"枚方 WordPress Meetup"に参加して、プレゼンテーションもしました。
+
+In addtion, I joined “Hirakata WordPress Meetup” was held at Hirakata in Jan 2019. Also I did the presentation.
+
+---
