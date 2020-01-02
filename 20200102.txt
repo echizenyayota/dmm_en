@@ -1,7 +1,12 @@
 3. About IT and Web(WordPress)
 もしWordPressを使ってブログを書くことなどに興味があれば、Tokyo WordPress Meetupというイベントに参加することをおすすめします。「やりたい！」という気持ちがあれば、誰でもITやWeb関連の技術をだいたい使うことができます。
 
-If you are interested in blogging on WordPress, I recommend you join Tokyo WordPress Meetup. Anyone with enthusiasm can use IT(Information Technology), web design, web engineering, and programming mostly.
+If you are interested in blogging on WordPress, I recommend you join Tokyo WordPress Meetup. Anyone with enthusiasm can use pretty much all IT(Information Technology) such as, web design, web engineering, and programming.
+
+// "I recommend you join Tokyo WordPress Meetup."の別表現
+
+I recommend that you should join Tokyo WordPress Meetup.
+I recommend joining Tokyo WordPress Meetup.
 
 ---
 
@@ -15,7 +20,10 @@ ITとWebの技術を学ぶためには3つのスキルが必要です。ただ�
 「文系人間」か「理系人間」かということは関係ありません。
 
 【Supplemental explanation】
-There are three things you need to learn IT and Web skills. However,they are not need to have the knowledges of mathmatics and engineering.
+There are three things you need to learn IT and Web skills. However,they don't havet to have the knowledges of mathmatics and engineering.
+
+// 別表現
+There are three things you need in order to learn IT and Web skills.
 
 1. Have an enthusiasm
 2. Make many friends
@@ -27,18 +35,22 @@ It does not matter if you are “Bunkei” or “Rikei”.
 
 もしあなたがケニヤにいるときにWordPressでケニヤに関するブログ記事を書けば、「ケニヤンブロガー」として著名な日本人になれると思います（有名になれば広告による収入も稼げるかもしれません）。
 
+// 過去仮定形を用いる場合はifで使われている句が実現する可能性は低い。
 If you wrote the article about Republic of Kenya on WordPress when in it, I think you are famous Japanese blogger about it(Also you may earn money on the ads).
+
+// 実現することが可能性が高いことを示すときは現在形を用いる
+If you write the article about Republic of Kenya on WordPress when you are there, you will be a famous Japanese blogger about it.
 
 ---
 
 もしお手すきの時間があれば、特に羽田か二子玉川のMeetupに参加してみることをお勧めします。
 
-If you have any times, I recommend upcominng “Haneda” or “Futako-Tamagawa” especially in Tokyo WordPress Meetup.
+If you have free time, I especially recommend upcominng "events" in “Haneda” or “Futako-Tamagawa”  in Tokyo WordPress Meetup.
 
 ---
 
 ちなみに自分は2019年1月に行われた、（大阪府枚方市の）"枚方 WordPress Meetup"に参加して、プレゼンテーションもしました。
 
-In addtion, I joined “Hirakata WordPress Meetup” was held at Hirakata in Jan 2019. Also I did the presentation.
+In addtion, I was suppoed to join “Hirakata WordPress Meetup” was held at Hirakata in Jan 2019. Also I made(gave) the presentation.
 
 ---
